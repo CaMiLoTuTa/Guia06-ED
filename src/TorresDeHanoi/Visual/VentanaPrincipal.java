@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package Guia06.Visual;
+package TorresDeHanoi.Visual;
 
-import Guia06.Code.Disco;
-import Guia06.Code.TorresHanoi;
+import TorresDeHanoi.Code.Disco;
+import TorresDeHanoi.Code.TorresHanoi;
 
 import javax.swing.JOptionPane;
 import javax.swing.JTable;

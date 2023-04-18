@@ -1,4 +1,4 @@
-package Guia06.Code;
+package TorresDeHanoi.Code;
 
 public class Disco {
     private int tamaño;
